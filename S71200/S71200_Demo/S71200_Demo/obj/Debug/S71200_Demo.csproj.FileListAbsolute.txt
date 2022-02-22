@@ -1,0 +1,13 @@
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\bin\Debug\S71200_Demo.exe.config
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\bin\Debug\S71200_Demo.exe
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\bin\Debug\S71200_Demo.pdb
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\bin\Debug\S7.Net.dll
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\bin\Debug\S7.Net.xml
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.csproj.SuggestedBindingRedirects.cache
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.Form1.resources
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.Properties.Resources.resources
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.csproj.GenerateResource.cache
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.csproj.CoreCompileInputs.cache
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.csproj.CopyComplete
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.exe
+F:\Learning\Modubus\S71200\S71200_Demo\S71200_Demo\obj\Debug\S71200_Demo.pdb
